@@ -1,0 +1,12 @@
+*, body {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    overflow-x: hidden;
+}
+:root {
+    --border-right: #DBDBDB;
+    --border-right: #DBDBDB;
+}
